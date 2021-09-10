@@ -323,8 +323,9 @@ body{
      }
      
      .img__1{
-       width: 370px;
+       width: 600px;
        height: 427px;
+       margin-bottom: 35px;
      }
 
      .img__2{
@@ -354,8 +355,8 @@ body{
  
     section .image__container__1 .image__1{
         
-         padding: 25px;
-         margin-left: 200px;
+         padding: 0px;
+         margin-left: 0px;
      }
  
     section .image__container__1 .image__1{
